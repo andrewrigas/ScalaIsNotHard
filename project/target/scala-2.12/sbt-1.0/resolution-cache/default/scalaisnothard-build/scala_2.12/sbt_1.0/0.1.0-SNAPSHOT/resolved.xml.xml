@@ -4,7 +4,7 @@
 		module="scalaisnothard-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190730124816"
+		publication="20190807112117"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

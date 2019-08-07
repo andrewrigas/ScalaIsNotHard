@@ -9,7 +9,6 @@ d = x + d
 //X cannot be modified constant value
 //x = x + d
 
-
 /*
 Data Type  Definition
 Boolean    true or false
