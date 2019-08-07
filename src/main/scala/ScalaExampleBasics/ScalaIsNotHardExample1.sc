@@ -69,7 +69,7 @@ println(answer)
 //If examples
 if (1 > 3) println("Impossible!") else println("The world makes sense.")
 
-if (1 > 3) {
+if (4 > 3) {
   println("Impossible!")
 } else {
   println("The world makes sense.")
