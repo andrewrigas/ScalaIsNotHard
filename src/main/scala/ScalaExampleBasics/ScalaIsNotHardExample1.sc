@@ -53,7 +53,7 @@ println(f"Zero padding on the left: $byte%05d")
 println(s"I can use the s prefix to use variables like $short $bool $char")
 
 // Substituting expressions (with curly brackets):
-println(s"The s prefix isn't limited to variables; I can include any expression. Like ${1+2}")
+println(s"The s prefix isn't limited to variables; I can include any expression. Like ${1 + 2}")
 
 
 // Using regular expressions:
@@ -100,5 +100,7 @@ while (w >= 0) {
 
 //Do-While example (Same line commands need ';')
 w = 0
-do { println(w); w+=1 } while (w <= 5)
+do {
+  println(w); w += 1
+} while (w <= 5)
 

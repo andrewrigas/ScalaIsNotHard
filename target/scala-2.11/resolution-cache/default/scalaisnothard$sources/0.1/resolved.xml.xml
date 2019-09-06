@@ -4,7 +4,7 @@
 		module="scalaisnothard$sources"
 		revision="0.1"
 		status="integration"
-		publication="20190807112125"
+		publication="20190906145719"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

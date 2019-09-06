@@ -294,11 +294,11 @@
 [debug] :: downloading artifacts ::
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.14.3!jline.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.11!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.11!scala-compiler.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.5!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.11!scala-library.jar(src)
-[debug] :: resolution report :: resolve 21ms :: artifacts dl 2ms
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.5!scala-xml_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.11!scala-reflect.jar(src)
+[debug] :: resolution report :: resolve 97ms :: artifacts dl 2ms
 [debug] 	report for default#scalaisnothard$sources;0.1 compile produced in /Users/arg11/Desktop/Experiments/ScalaIsNotHard/target/scala-2.11/resolution-cache/reports/default-scalaisnothard$sources-compile.xml
 [debug] 	report for default#scalaisnothard$sources;0.1 runtime produced in /Users/arg11/Desktop/Experiments/ScalaIsNotHard/target/scala-2.11/resolution-cache/reports/default-scalaisnothard$sources-runtime.xml
 [debug] 	report for default#scalaisnothard$sources;0.1 test produced in /Users/arg11/Desktop/Experiments/ScalaIsNotHard/target/scala-2.11/resolution-cache/reports/default-scalaisnothard$sources-test.xml
@@ -310,4 +310,4 @@
 [debug] 	report for default#scalaisnothard$sources;0.1 plugin produced in /Users/arg11/Desktop/Experiments/ScalaIsNotHard/target/scala-2.11/resolution-cache/reports/default-scalaisnothard$sources-plugin.xml
 [debug] 	report for default#scalaisnothard$sources;0.1 pom produced in /Users/arg11/Desktop/Experiments/ScalaIsNotHard/target/scala-2.11/resolution-cache/reports/default-scalaisnothard$sources-pom.xml
 [debug] 	report for default#scalaisnothard$sources;0.1 scala-tool produced in /Users/arg11/Desktop/Experiments/ScalaIsNotHard/target/scala-2.11/resolution-cache/reports/default-scalaisnothard$sources-scala-tool.xml
-[debug] 	resolve done (21ms resolve - 2ms download)
+[debug] 	resolve done (97ms resolve - 2ms download)
